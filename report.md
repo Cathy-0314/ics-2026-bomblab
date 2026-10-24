@@ -278,8 +278,8 @@ v2 = T ^ (C + idx + 0xe758 + (B >> 5))
 
 ## 8. 运行结果截图
 
-![公开测试全通过](images/public_test1.png)
-![公开测试全通过](images/public_test2.png)
+![公开测试全通过1](images/public_test1.png)
+![公开测试全通过2](images/public_test2.png)
 
 ![非公开 seed 43 六关验证](images/seed43.png)
 
